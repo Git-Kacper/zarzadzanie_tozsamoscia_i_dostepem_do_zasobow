@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="login.css">
+</head><!--naglowek strony-->
+
+<body> <!--glowna sekcja strony-->
+  <main id="main-holder">
+    <h1 id="login-header">Login</h1>
+    <form id="login-form">
+      <i class="fa-regular fa-user fa-lg">
+          <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
+      </i>
+      <i class="fa fa-lock fa-lg">
+          <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+      </i>
+      <button type="submit" class="button-login" id="login-form-submit">Login</button>
+    </form>
+    <div id="login-error-msg-holder">
+      <div id="login-error-msg">
+      </div>
+    </div>
+  </main>  
+<script src="login.js"> 
+</script> <!--wskazanie skryptu js-->
+</body>
+</html>
