@@ -1,7 +1,7 @@
 <h1>Kacper Bartodziejski | 76121 | ARIT1</h1>
 
 <h3>Ćw 1</h3>
-Sprawdzone przy użyciu: <a href="https://replit.com/languages/nodejs">Replit</a>
+Sprawdzone przy użyciu: <a href="https://replit.com/languages/nodejs" target=”_blank”>Replit</a>
 
 ```
 'use strict';
@@ -14,7 +14,7 @@ console.log('"' + data + '" po zaszyfrowaniu przez Base64 to "' + base64data + '
 ```
 
 <h3>Ćw 2</h3>
-Sprawdzone przy użyciu: <a href="https://replit.com/languages/python3">Replit</a>
+Sprawdzone przy użyciu: <a href="https://replit.com/languages/python3" target=”_blank”>Replit</a>
 
 ```
 import secrets
