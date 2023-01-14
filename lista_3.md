@@ -1,7 +1,7 @@
 <h1>Kacper Bartodziejski | 76121 | ARIT1</h1>
 
 <h3>Ćw 1</h3>
-Sprawdzone przy użyciu: <a href="https://replit.com/languages/nodejs" target=”_blank”>Replit</a>
+Sprawdzone przy użyciu: <a target="_blank" rel="noopener noreferrer" href="https://replit.com/languages/nodejs">Replit</a>
 
 ```
 'use strict';
